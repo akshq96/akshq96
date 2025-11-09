@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akshit Raj</h1>
 <h3 align="center">A passionate full Stack developer.</h3>
 
+![Image](https://github.com/user-attachments/assets/3ffe806d-967b-4d87-b935-d0536558d99a)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshq96&label=Profile%20views&color=0e75b6&style=flat" alt="akshq96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshq96" alt="akshq96" /></a> </p>
