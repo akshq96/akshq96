@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full Stack developer.</h3>
 
 ![Image](https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559)
-![Image](https://github.com/user-attachments/assets/33e250bc-3ac3-4d6c-b7d5-c9f22b329f4f)
 ![Image](https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7)
 
 
