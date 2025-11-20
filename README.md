@@ -95,7 +95,7 @@ I specialize in:
 
 # 🚀 Featured Projects
 
-### 🔹 **Decentralised Share **
+### 🔹 **Decentralised Share**
 > A dApp for sharing files • Share your files anonymously.<br> It is a File sharing app, built using web3.storage, Gun.js.
 
 
