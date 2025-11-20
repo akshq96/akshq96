@@ -39,8 +39,8 @@
 <!-- Cartoon-style professional GIF banner -->
 
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559" width="48%">
-<img src = "https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7" width="48%">
+<img src = "https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559" width="50%">
+<img src = "https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7" width="50%">
 </p>
 
 <h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
