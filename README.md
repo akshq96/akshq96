@@ -37,6 +37,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&" alt="akshq96" /></p> -->
 
 <!-- Cartoon-style professional GIF banner -->
+![Image](https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559)
+![Image](https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7)
 
 <h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
 <p align="center">
@@ -55,14 +57,14 @@ I specialize in:
 -  Node.js + Express  
 -  MongoDB + MySQL
 
- Currently learning **Blockchain**, **scalable architectures** and **AI & Devops**.
+ Currently learning **Blockchain**, **Javascript Framework** and **DSA**.
 
 ---
 
 # ⚡ Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,vite,git,github,c,cpp,firebase,bootsrap" height="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,react,nodejs,js,tailwind,ts,mysql,postgresql,github,bootstrap,solidity,rust,aws" height="65" />
 </div>
 
 ---
