@@ -100,4 +100,4 @@ I specialize in:
 
 
 ### 🔹 **CarbonDAO**
-> • Project that combines blockchain technology, IoT sensors, and AI-powered fraud detection to create a transparent and verifiable carbon credit marketplace.<br>• Enables real-world environmental data collection, verification, and tokenization of carbon credits as RWAs (Real World Assets)
+> • Project that combines blockchain technology, IoT sensors, and AI-powered fraud detection to create a transparent and verifiable carbon<br>credit marketplace.<br>• Enables real-world environmental data collection, verification, and tokenization of carbon credits as RWAs (Real World Assets)
