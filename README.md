@@ -37,7 +37,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&" alt="akshq96" /></p> -->
 
 <!-- Cartoon-style professional GIF banner -->
-![Image](https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559)![Image](https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7)
+
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559" width="48%">
+<img src = "https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7" width="48%">
+</p>
 
 <h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
 <p align="center">
