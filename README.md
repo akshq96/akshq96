@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshit Raj</h1>
+<!-- <h1 align="center">Hi 👋, I'm Akshit Raj</h1>
 <h3 align="center">A passionate full Stack developer.</h3>
 
 ![Image](https://github.com/user-attachments/assets/f69d0dcc-0e88-4128-95dd-8b8ca42ee559)
@@ -34,4 +34,60 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshq96&show_icons=true&locale=en&layout=compact" alt="akshq96" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&" alt="akshq96" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&" alt="akshq96" /></p> -->
+
+<!-- Cartoon-style professional GIF banner -->
+
+<h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
+<p align="center">
+  <em>Full-Stack Developer</em>
+</p>
+
+---
+
+##  About Me
+I'm a passionate **full-stack web developer** who loves building clean, fast and modern web applications.
+
+I specialize in:
+
+-  React & Next.js  
+-  JavaScript & TypeScript  
+-  Node.js + Express  
+-  MongoDB + MySQL
+
+ Currently learning **Blockchain**, **scalable architectures** and **AI & Devops**.
+
+---
+
+# ⚡ Skills & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,vite,git,github,c,cpp,firebase,bootsrap" height="65" />
+</div>
+
+---
+
+# 🏆 GitHub Highlights
+
+<div align="center">
+
+  <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=highcontrast&hide_border=true" />
+
+  <img height="150" src="https://github-profile-trophy.vercel.app?username=akshq96&theme=onestar&margin-w=8&margin-h=8" />
+
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=akshq96&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshq96&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 **Decentralised Share -- Advanced Expense Tracker**
+> A dApp for sharing files • Share your files anonymously.<br> It is a File sharing app, built using web3.storage, Gun.js.
+
+
+### 🔹 **CarbonDAO**
+> project that combines blockchain technology, IoT sensors, and AI-powered fraud detection to create a transparent and verifiable carbon credit marketplace.<br>Enables real-world environmental data collection, verification, and tokenization of carbon credits as RWAs (Real World Assets)
