@@ -74,7 +74,9 @@ I specialize in:
 
   <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=highcontrast&hide_border=true" />
 
-  <img height="150" src="https://github-profile-trophy.vercel.app?username=akshq96&theme=onestar&margin-w=8&margin-h=8" />
+
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshq96&label=Profile%20views&color=0e75b6&style=flat" alt="akshq96" /> </p>
 
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=akshq96&show_icons=true&theme=tokyonight&hide_border=true" />
 
