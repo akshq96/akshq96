@@ -38,9 +38,9 @@
 
 <!-- Cartoon-style professional GIF banner -->
 
-<!-- <p align="center">
-<img src = "https://github.com/user-attachments/assets/b8df0b21-fa31-4947-a41c-5c638e9ec3e7">
-</p> -->
+<!-- <p align="center"> -->
+![Image](https://github.com/user-attachments/assets/7a092348-e493-4690-a6df-032b94d153a0)
+
 
 <h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
 <p align="center">
