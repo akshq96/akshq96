@@ -96,8 +96,8 @@ I specialize in:
 # 🚀 Featured Projects
 
 ### 🔹 **Decentralised Share**
-> A dApp for sharing files • Share your files anonymously.<br> It is a File sharing app, built using web3.storage, Gun.js.
+> • A dApp for sharing files • Share your files anonymously.<br> • It is a File sharing app, built using web3.storage, Gun.js.
 
 
 ### 🔹 **CarbonDAO**
-> Project that combines blockchain technology, IoT sensors, and AI-powered fraud detection to create a transparent and verifiable carbon credit marketplace.<br>Enables real-world environmental data collection, verification, and tokenization of carbon credits as RWAs (Real World Assets)
+> • Project that combines blockchain technology, IoT sensors, and AI-powered fraud detection to create a transparent and verifiable carbon credit marketplace.<br>• Enables real-world environmental data collection, verification, and tokenization of carbon credits as RWAs (Real World Assets)
