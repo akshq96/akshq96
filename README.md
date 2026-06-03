@@ -79,7 +79,7 @@ I specialize in:
 
 <div align="center">
 
-  <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=highcontrast&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&theme=tokyonight&hide_border=true" />
 
 
 
