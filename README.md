@@ -83,12 +83,13 @@ I specialize in:
 
 ![GitHub stars](https://img.shields.io/github/stars/akshq96?style=for-the-badge)
 
-<!-- <div align="center">
+<div align="center">
 
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=akshq96&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=tokyonight&hide_border=true" />
 
-
-
+  <br/><br/>
+  
+<!--
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshq96&label=Profile%20views&color=0e75b6&style=flat" alt="akshq96" /> </p>
 
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=akshq96&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -100,8 +101,6 @@ I specialize in:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshq96&theme=tokyonight&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
