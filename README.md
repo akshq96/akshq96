@@ -90,8 +90,6 @@ I specialize in:
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshq96&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web3+Builder;Climate-Tech+Explorer;Always+Building+Something+Interesting)](https://git.io/typing-svg)
 ---
 
 # 🚀 Featured Projects
