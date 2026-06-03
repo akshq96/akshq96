@@ -48,7 +48,7 @@
 
 <h1 align="center">✨ Hey, I'm <strong>Akshit Raj</strong> ✨</h1>
 <p align="center">
-  <em> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web3+Builder;Climate-Tech+Explorer;Always+Building+Something+Interesting)](https://git.io/typing-svg) </em>
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Web3+Builder;Climate-Tech+Explorer;Always+Building+Something+Interesting)](https://git.io/typing-svg) 
 </p>
 
 ---
