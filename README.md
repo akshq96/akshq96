@@ -77,17 +77,7 @@ I specialize in:
 
 # 🏆 GitHub Highlights
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshq96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshq96&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=akshq96&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
+<img src="https://streak-stats.demolab.com?user=akshq96&theme=tokyonight&hide_border=true" />
 
 <!-- <div align="center">
 
