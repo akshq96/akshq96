@@ -90,7 +90,6 @@ I specialize in:
   <br/><br/>
 
 
-  <img src="https://readme-stats-fast.vercel.app/api?username=akshq96&theme=radical&show_icons=true" alt="Github Stats" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=akshq96&layout=compact&theme=radical" alt="Most Used Languages" />
   
 </div>
