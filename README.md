@@ -95,6 +95,8 @@ I specialize in:
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshq96&theme=tokyonight&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 # 🚀 Featured Projects
