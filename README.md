@@ -77,7 +77,11 @@ I specialize in:
 
 # 🏆 GitHub Highlights
 
-<img src="https://streak-stats.demolab.com?user=akshq96&theme=tokyonight&hide_border=true" />
+![Profile Views](https://komarev.com/ghpvc/?username=akshq96&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/akshq96?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/akshq96?style=for-the-badge)
 
 <!-- <div align="center">
 
